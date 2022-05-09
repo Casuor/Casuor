@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm aki</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-- 🌱 I’m currently learning **vue，react,python**
+- 🌱 I’m currently learning **vue，react，python**
 
 - 📝 I regularly write articles on [https://casuor.top](https://casuor.top)
 
