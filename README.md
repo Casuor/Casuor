@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **vue，react，python**
 - 📫 How to reach me **aki.me.morin@gmail.com**
+- 📝 [gists](https://gist.github.com/akirco)
 
 <!-- - 📝 I regularly write articles on [https://casuor.top](https://casuor.top)
 
