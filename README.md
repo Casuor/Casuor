@@ -1,7 +1,9 @@
+<!--
 <h1 align="center">Hi 👋, I'm akirco</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
+-->
 
-- 🌱 I’m currently learning **vue，react，python**
+- 🌱 I’m currently learning **rust & go**
 - 📫 How to reach me **aki.me.morin@gmail.com**
 - 📝 [gists](https://gist.github.com/akirco)
 - i am not an opportunist, but it's a fatal weakness.
