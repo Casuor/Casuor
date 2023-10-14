@@ -27,3 +27,18 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/akimemorin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee,buddy" /></a></p><br><br>
 -->
+<h3 align="left">在维护:</h3>
+
+-  [aki-apps](https://github.com/akirco/aki-apps) scoop bucket for developer
+-  [gistify](https://github.com/akirco/gistify) 基于next.js13的开源博客
+-  [couple-player](https://github.com/akirco/couple-player) 基于next.js13 webrtc的同步看视频网站
+-  [vscode-theme-cocoa](https://github.com/akirco/vscode-theme-cocoa) 一款不错的vscode暗色主题
+-  [vscode-theme-seabear](https://github.com/akirco/vscode-theme-seabear) 又一款不错的vscode暗色主题
+-  [vscode-extensions-projectmanager](https://github.com/akirco/vscode-extensions-projectmanager) vscode项目管理插件，以文件夹树的形式管理项目，仅支持windows
+-  [upscaler](https://github.com/akirco/upscaler) 基于electron的图像超分辨率gui
+-  [telegraph_downloader](https://github.com/akirco/telegraph_downloader) powershell写的telegraph下载工具
+-  [powershell](https://github.com/akirco/powershell) 常用powershell小工具
+
+<h3 align="left">dotfiles:</h3>
+
+- [dotfiles](https://github.com/akirco/dotfiles)
