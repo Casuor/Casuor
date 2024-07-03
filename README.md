@@ -26,7 +26,7 @@
 <!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/akimemorin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee,buddy" /></a></p><br><br>
--->
+
 <h3 align="left">在维护:</h3>
 
 -  [aki-apps](https://github.com/akirco/aki-apps) scoop bucket for developer
@@ -42,3 +42,5 @@
 <h3 align="left">dotfiles:</h3>
 
 - [dotfiles](https://github.com/akirco/dotfiles)
+
+-->
